@@ -67,7 +67,7 @@ The [standard deviation][stdev] for an [arcsine][arcsine-distribution] random va
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@v0.2.0-deno/mod.js';
 ```
 
 #### stdev( a, b )
@@ -127,7 +127,7 @@ v = stdev( 3.0, 3.0 );
 
 ```javascript
 import randu from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-randu@deno/mod.js';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@deno/mod.js';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@v0.2.0-deno/mod.js';
 
 var a;
 var b;
