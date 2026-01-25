@@ -67,7 +67,7 @@ The [standard deviation][stdev] for an [arcsine][arcsine-distribution] random va
 ## Usage
 
 ```javascript
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@v0.3.0-esm/index.mjs';
 ```
 
 #### stdev( a, b )
@@ -133,7 +133,7 @@ v = stdev( 3.0, 3.0 );
 
 import uniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-array-uniform@esm/index.mjs';
 import logEachMap from 'https://cdn.jsdelivr.net/gh/stdlib-js/console-log-each-map@esm/index.mjs';
-import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@esm/index.mjs';
+import stdev from 'https://cdn.jsdelivr.net/gh/stdlib-js/stats-base-dists-arcsine-stdev@v0.3.0-esm/index.mjs';
 
 var opts = {
     'dtype': 'float64'
