@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-22)
+## Unreleased (2026-09-07)
 
 <section class="commits">
 
@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`9564d60`](https://github.com/stdlib-js/stdlib/commit/9564d6079f44eb1b38a45203f23acd4776751f18) - **test:** migrate `stats/base/dists/arcsine/stdev` to ULP-based assertions [(#15051)](https://github.com/stdlib-js/stdlib/pull/15051) _(by Aryan kumar)_
 -   [`f38e8a7`](https://github.com/stdlib-js/stdlib/commit/f38e8a7b433e0e9888eb57c83f4374073089ad85) - **docs:** clean-up parameters in Julia fixtures scripts _(by Philipp Burckhardt)_
 
 </details>
@@ -24,8 +25,9 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 2 people contributed to this release. Thank you to the following contributors:
 
+-   Aryan kumar
 -   Philipp Burckhardt
 
 </section>
